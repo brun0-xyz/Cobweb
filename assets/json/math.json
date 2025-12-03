@@ -1,2139 +1,409 @@
 {
   "items": [
     {
-      "name": "Minecraft Games",
-      "img": "/assets/math/eaglercraft/image.png",
-      "page": "/assets/math/eaglercraft/"
-    },
-    {
-      "name": "Protektor",
-      "img": "/assets/math/tekpro/cover.png",
-      "page": "/assets/math/tekpro/"
-    },
-    {
-      "name": "The Gummibär Game",
-      "img": "/assets/math/gum/cover.png",
-      "page": "/assets/math/gum/"
-    },
-    {
-      "name": "Final Ninja",
-      "img": "/assets/math/final/cover.png",
-      "page": "/assets/math/final/"
-    },
-    {
-      "name": "The Sims - Busting Out",
-      "img": "/assets/math/bsims/cover.png",
-      "page": "/assets/math/bsims/"
-    },
-    {
-      "name": "SimCity 2000",
-      "img": "/assets/math/2000si/cover.png",
-      "page": "/assets/math/2000si/"
-    },
-    {
-      "name": "SimCity",
-      "img": "/assets/math/simcity/cover.png",
-      "page": "/assets/math/simcity/"
-    },
-    {
-      "name": "Donkey Kong",
-      "img": "/assets/math/kong/cover.png",
-      "page": "/assets/math/kong/"
-    },
-    {
-      "name": "Sonic Advance 3",
-      "img": "/assets/math/3sadv/cover.png",
-      "page": "/assets/math/3sadv/"
-    },
-    {
-      "name": "Sonic Advance 2",
-      "img": "/assets/math/2sadv/cover.png",
-      "page": "/assets/math/2sadv/"
-    },
-    {
-      "name": "Sonic Advance",
-      "img": "/assets/math/sadvance/cover.png",
-      "page": "/assets/math/sadvance/"
-    },
-    {
-      "name": "Crazy Taxi",
-      "img": "/assets/math/crtaxi/cover.png",
-      "page": "/assets/math/crtaxi/"
-    },
-    {
-      "name": "Sonic & Knuckles",
-      "img": "/assets/math/knuck/cover.png",
-      "page": "/assets/math/knuck/"
-    },
-    {
-      "name": "Sonic 3",
-      "img": "/assets/math/3sonic/cover.png",
-      "page": "/assets/math/3sonic/"
-    },
-    {
-      "name": "Hobo 7",
-      "img": "/assets/math/7hobo/cover.png",
-      "page": "/assets/math/7hobo/"
-    },
-    {
-      "name": "Hobo 6",
-      "img": "/assets/math/6hobo/cover.png",
-      "page": "/assets/math/6hobo/"
-    },
-    {
-      "name": "Hobo 5",
-      "img": "/assets/math/5hobo/cover.png",
-      "page": "/assets/math/5hobo/"
-    },
-    {
-      "name": "Hobo 4",
-      "img": "/assets/math/4hobo/cover.png",
-      "page": "/assets/math/4hobo/"
-    },
-    {
-      "name": "Hobo 3",
-      "img": "/assets/math/3hobo/cover.png",
-      "page": "/assets/math/3hobo/"
-    },
-    {
-      "name": "3 Lines",
-      "img": "/assets/math/3line/cover.png",
-      "page": "/assets/math/3line/"
-    },
-    {
-      "name": "Crazy Flasher 6",
-      "img": "/assets/math/6flash/cover.png",
-      "page": "/assets/math/6flash/"
-    },
-    {
-      "name": "Crazy Flasher 5",
-      "img": "/assets/math/5flash/cover.png",
-      "page": "/assets/math/5flash/"
-    },
-    {
-      "name": "Crazy Flasher 4",
-      "img": "/assets/math/4flash/cover.png",
-      "page": "/assets/math/4flash/"
-    },
-    {
-      "name": "Crazy Flasher 2",
-      "img": "/assets/math/2flash/cover.png",
-      "page": "/assets/math/2flash/"
-    },
-    {
-      "name": "Crazy Flasher 3",
-      "img": "/assets/math/3flash/cover.png",
-      "page": "/assets/math/3flash/"
-    },
-    {
-      "name": "GTA: Advance",
-      "img": "/assets/math/advgta/cover.png",
-      "page": "/assets/math/advgta/"
-    },
-    {
-      "name": "GTA 1",
-      "img": "/assets/math/gta1/cover.png",
-      "page": "/assets/math/gta1/"
-    },
-    {
-      "name": "GTA 2",
-      "img": "/assets/math/gta2/cover.png",
-      "page": "/assets/math/gta2/"
-    },
-    {
-      "name": "Quake 3",
-      "img": "/assets/math/quake3/cover.png",
-      "page": "/assets/math/quake3/"
-    },
-    {
-      "name": "3D Space Cadet Pinball",
-      "img": "/assets/math/pinball/cover.png",
-      "page": "/assets/math/pinball/"
-    },
-    {
-      "name": "Sonic 2",
-      "img": "/assets/math/2sonic/cover.svg",
-      "page": "/assets/math/2sonic/"
-    },
-    {
-      "name": "Corporation Inc",
-      "img": "/assets/math/corp/cover.png",
-      "page": "/assets/math/corp/"
-    },
-    {
-      "name": "Plants vs. Zombies",
-      "img": "/assets/math/pvz/cover.png",
-      "page": "/assets/math/pvz/"
-    },
-    {
-      "name": "Pyongyang Racer",
-      "img": "/assets/math/pyong/cover.png",
-      "page": "/assets/math/pyong/"
-    },
-    {
-      "name": "Ultimate Flash Sonic",
-      "img": "/assets/math/flash/cover.png",
-      "page": "/assets/math/flash/"
-    },
-    {
-      "name": "Hobo 2",
-      "img": "/assets/math/2hobo/cover.png",
-      "page": "/assets/math/2hobo/"
-    },
-    {
-      "name": "Hobo 1",
-      "img": "/assets/math/1hobo/cover.png",
-      "page": "/assets/math/1hobo/"
-    },
-    {
-      "name": "Super Auto Pets",
-      "img": "/assets/math/auto/cover.png",
-      "page": "/assets/math/auto/"
-    },
-    {
-      "name": "Sonic 1",
-      "img": "/assets/math/sonic/cover.svg",
-      "page": "/assets/math/sonic/"
-    },
-    {
-      "name": "Earn to Die",
-      "img": "/assets/math/ern/cover.png",
-      "page": "/assets/math/ern/"
-    },
-    {
-      "name": "Temple of Boom",
-      "img": "/assets/math/temple/cover.png",
-      "page": "/assets/math/temple/"
-    },
-    {
-      "name": "Backrooms 2D",
-      "img": "/assets/math/2d/cover.png",
-      "page": "/assets/math/2d/"
-    },
-    {
-      "name": "Superhero Drop",
-      "img": "/assets/math/superhero/cover.png",
-      "page": "/assets/math/superhero/"
-    },
-    {
-      "name": "Obby, jump!",
-      "img": "/assets/math/obby/cover.png",
-      "page": "/assets/math/obby/"
-    },
-    {
-      "name": "Jake's Jingle Quest",
-      "img": "/assets/math/jake/cover.png",
-      "page": "/assets/math/jake/"
-    },
-    {
-      "name": "Bouncy Flappy",
-      "img": "/assets/math/bounce/cover.png",
-      "page": "/assets/math/bounce/"
-    },
-    {
-      "name": "The Black Man",
-      "img": "/assets/math/black/cover.png",
-      "page": "/assets/math/black/"
-    },
-    {
-      "name": "Real Flying Truck 3D",
-      "img": "/assets/math/trk/cover.png",
-      "page": "/assets/math/trk/"
-    },
-    {
-      "name": "Crazy Tunnel 3D",
-      "img": "/assets/math/crazy/cover.png",
-      "page": "/assets/math/crazy/"
-    },
-    {
-      "name": "Two Ball 3D",
-      "img": "/assets/math/two/cover.png",
-      "page": "/assets/math/two/"
-    },
-    {
-      "name": "Slope City",
-      "img": "/assets/math/ballslo/cover.png",
-      "page": "/assets/math/ballslo/"
-    },
-    {
-      "name": "Shapez",
-      "img": "/assets/math/shapez/cover.png",
-      "page": "/assets/math/shapez/"
-    },
-    {
-      "name": "Pickcrafter",
-      "img": "/assets/math/pick/cover.png",
-      "page": "/assets/math/pick/"
-    },
-    {
-      "name": "Sudoku",
-      "img": "/assets/math/sudo/cover.png",
-      "page": "/assets/math/sudo/"
-    },
-    {
-      "name": "Rocket Bot Royale",
-      "img": "/assets/math/rocket/cover.png",
-      "page": "/assets/math/rocket/"
-    },
-    {
-      "name": "Slope 3",
-      "img": "/assets/math/slope3/cover.png",
-      "page": "/assets/math/slope3/"
-    },
-    {
-      "name": "InfiniteCraft",
-      "img": "/assets/math/infi/cover.png",
-      "page": "/assets/math/infi/"
-    },
-    {
-      "name": "Mine Blocks",
-      "img": "/assets/math/minors/cover.png",
-      "page": "/assets/math/minors/"
-    },
-    {
-      "name": "Wubzzy's Amazing Adventure",
-      "img": "/assets/math/wubz/cover.png",
-      "page": "/assets/math/wubz/"
-    },
-    {
-      "name": "Bus & Subway Runner",
-      "img": "/assets/math/subway/cover.png",
-      "page": "/assets/math/subway/"
-    },
-    {
-      "name": "Drift King",
-      "img": "/assets/math/king/cover.png",
-      "page": "/assets/math/king/"
-    },
-    {
-      "name": "Pako Highway",
-      "img": "/assets/math/pako/cover.png",
-      "page": "/assets/math/pako/"
-    },
-    {
-      "name": "Snowball.io",
-      "img": "/assets/math/snow/cover.png",
-      "page": "/assets/math/snow/"
-    },
-    {
-      "name": "Balloon Run",
-      "img": "/assets/math/bal/cover.png",
-      "page": "/assets/math/bal/"
-    },
-    {
-      "name": "Gunfest",
-      "img": "/assets/math/fest/cover.png",
-      "page": "/assets/math/fest/"
-    },
-    {
-      "name": "Run 3 Editor",
-      "img": "/assets/math/editor/cover.png",
-      "page": "/assets/math/editor/"
-    },
-    {
-      "name": "Train Surfers",
-      "img": "/assets/math/train/cover.png",
-      "page": "/assets/math/train/"
-    },
-    {
-      "name": "Fruit Cuts 3D",
-      "img": "/assets/math/fruit/cover.png",
-      "page": "/assets/math/fruit/"
-    },
-    {
-      "name": "Grand Shift Auto",
-      "img": "/assets/math/gsa/cover.png",
-      "page": "/assets/math/gsa/"
-    },
-    {
-      "name": "Unfair Mario",
-      "img": "/assets/math/unfmar/cover.png",
-      "page": "/assets/math/unfmar/"
-    },
-    {
-      "name": "WASM Doom",
-      "img": "/assets/math/doom-wasm/cover.png",
-      "page": "/assets/math/doom-wasm/"
-    },
-    {
-      "name": "Talking Tom Cat",
-      "img": "/assets/math/tom2/cover.png",
-      "page": "/assets/math/tom2/"
-    },
-    {
-      "name": "Flappy 2048",
-      "img": "/assets/math/flap/cover.png",
-      "page": "/assets/math/flap/"
-    },
-    {
-      "name": "9007199254740992",
-      "img": "/assets/math/9007199254740992/cover.png",
-      "page": "/assets/math/9007199254740992/"
-    },
-    {
-      "name": "1",
-      "img": "/assets/math/1/cover.png",
-      "page": "/assets/math/1/"
-    },
-    {
-      "name": "Wheely 4",
-      "img": "/assets/math/whe4/cover.png",
-      "page": "/assets/math/whe4/"
-    },
-    {
-      "name": "Wheely 3",
-      "img": "/assets/math/whe3/cover.png",
-      "page": "/assets/math/whe3/"
-    },
-    {
-      "name": "Wheely 2",
-      "img": "/assets/math/whe2/cover.png",
-      "page": "/assets/math/whe2/"
-    },
-    {
-      "name": "Wheely 1",
-      "img": "/assets/math/whe/cover.png",
-      "page": "/assets/math/whe/"
-    },
-    {
-      "name": "Glassworks",
-      "img": "/assets/math/glass/cover.png",
-      "page": "/assets/math/glass/"
-    },
-    {
-      "name": "Mutiny",
-      "img": "/assets/math/mut/cover.png",
-      "page": "/assets/math/mut/"
-    },
-    {
-      "name": "Snotput",
-      "img": "/assets/math/snot/cover.png",
-      "page": "/assets/math/snot/"
-    },
-    {
-      "name": "Headcase",
-      "img": "/assets/math/headcase/cover.png",
-      "page": "/assets/math/headcase/"
-    },
-    {
-      "name": "Bubble Shooter",
-      "img": "/assets/math/bub/cover.png",
-      "page": "/assets/math/bub/"
-    },
-    {
-      "name": "Skywire VIP (Extended)",
-      "img": "/assets/math/sky/cover.png",
-      "page": "/assets/math/sky/"
-    },
-    {
-      "name": "Plunger",
-      "img": "/assets/math/plu/cover.png",
-      "page": "/assets/math/plu/"
-    },
-    {
-      "name": "Gunbrick",
-      "img": "/assets/math/brick/cover.png",
-      "page": "/assets/math/brick/"
-    },
-    {
-      "name": "Nitrome Must Die",
-      "img": "/assets/math/nitme/cover.png",
-      "page": "/assets/math/nitme/"
-    },
-    {
-      "name": "Robo Run",
-      "img": "/assets/math/robo/cover.png",
-      "page": "/assets/math/robo/"
-    },
-    {
-      "name": "Meteor Game",
-      "img": "/assets/math/meteor/cover.png",
-      "page": "/assets/math/meteor/"
-    },
-    {
-      "name": "Skateboarding Simulator",
-      "img": "/assets/math/skate/cover.png",
-      "page": "/assets/math/skate/"
-    },
-    {
-      "name": "CrossNRoad",
-      "img": "/assets/math/crossnroad/cover.png",
-      "page": "/assets/math/crossnroad/"
-    },
-    {
-      "name": "Tappy Plane",
-      "img": "/assets/math/tappyplane/cover.png",
-      "page": "/assets/math/tappyplane/"
-    },
-    {
-      "name": "Putin on the Ritz",
-      "img": "/assets/math/ritz/cover.png",
-      "page": "/assets/math/ritz/"
-    },
-    {
-      "name": "Sandboxels",
-      "img": "/assets/math/box/cover.png",
-      "page": "/assets/math/box/"
-    },
-    {
-      "name": "Flappy Race",
-      "img": "/assets/math/flappyrace/cover.png",
-      "page": "/assets/math/flappyrace/"
-    },
-    {
-      "name": "Karlson",
-      "img": "/assets/math/karlson/cover.png",
-      "page": "/assets/math/karlson/"
-    },
-    {
-      "name": "Adventure",
-      "img": "/assets/math/adventure/cover.png",
-      "page": "/assets/math/adventure/"
-    },
-    {
-      "name": "The Heist",
-      "img": "/assets/math/heist/cover.png",
-      "page": "/assets/math/heist/"
-    },
-    {
-      "name": "Age of War 2",
-      "img": "/assets/math/aow2/cover.png",
-      "page": "/assets/math/aow2/"
-    },
-    {
-      "name": "Star Clicker",
-      "img": "/assets/math/star/cover.png",
-      "page": "/assets/math/star/"
-    },
-    {
-      "name": "Racer",
-      "img": "/assets/math/racer/cover.png",
-      "page": "/assets/math/racer/"
-    },
-    {
-      "name": "Fort@dmin",
-      "img": "/assets/math/fort/cover.png",
-      "page": "/assets/math/fort/"
-    },
-    {
-      "name": "Flappy Dino",
-      "img": "/assets/math/fld/cover.png",
-      "page": "/assets/math/fld/"
-    },
-    {
-      "name": "Connect Four",
-      "img": "/assets/math/c4/cover.png",
-      "page": "/assets/math/c4/"
-    },
-    {
-      "name": "13 Days of Hell",
-      "img": "/assets/math/13/cover.png",
-      "page": "/assets/math/13/"
-    },
-    {
-      "name": "Mindustry",
-      "img": "/assets/math/mind/cover.png",
-      "page": "/assets/math/mind/"
-    },
-    {
-      "name": "House of Hazards",
-      "img": "/assets/math/houseofhazards/favicon.ico",
-      "page": "/assets/math/houseofhazards/"
-    },
-    {
-      "name": "Shape Shipper",
-      "img": "/assets/math/shape/cover.png",
-      "page": "/assets/math/shape/"
-    },
-    {
-      "name": "Rough Dino",
-      "img": "/assets/math/roughdino/cover.png",
-      "page": "/assets/math/roughdino/"
-    },
-    {
-      "name": "Geometry Meltdown",
-      "img": "/assets/math/geomelt/cover.png",
-      "page": "/assets/math/geomelt/"
-    },
-    {
-      "name": "Geometry Jump",
-      "img": "/assets/math/geojump/cover.png",
-      "page": "/assets/math/geojump/"
-    },
-    {
-      "name": "Counter Strike: DS",
-      "img": "/assets/math/cds/cover.png",
-      "page": "/assets/math/cds/"
-    },
-    {
-      "name": "Terri-Fried",
-      "img": "/assets/math/terrifried/cover.png",
-      "page": "/assets/math/terrifried/"
-    },
-    {
-      "name": "Geometry Dash Remastered",
-      "img": "/assets/math/geodashrm/cover.png",
-      "page": "/assets/math/geodashrm/"
-    },
-    {
-      "name": "The Minions: Resurrection",
-      "img": "/assets/math/minion/cover.png",
-      "page": "/assets/math/minion/"
-    },
-    {
-      "name": "Geometry Dash Sky",
-      "img": "/assets/math/geodashsky/cover.png",
-      "page": "/assets/math/geodashsky/"
-    },
-    {
-      "name": "Drift Mania",
-      "img": "/assets/math/drift/cover.png",
-      "page": "/assets/math/drift/"
-    },
-    {
-      "name": "Driving Force 4",
-      "img": "/assets/math/driving/cover.png",
-      "page": "/assets/math/driving/"
-    },
-    {
-      "name": "Red Ball 1",
-      "img": "/assets/math/redball/cover.png",
-      "page": "/assets/math/redball/"
-    },
-    {
-      "name": "Recoil",
-      "img": "/assets/math/recoil/cover.png",
-      "page": "/assets/math/recoil/"
-    },
-    {
-      "name": "Karlson't",
-      "img": "/assets/math/karlsont/cover.png",
-      "page": "/assets/math/karlsont/"
-    },
-    {
-      "name": "Deepest Sword",
-      "img": "/assets/math/deepestsword/logo.png",
-      "page": "/assets/math/deepestsword/"
-    },
-    {
-      "name": "Tomb of The Mask",
-      "img": "/assets/math/tombofthemask/cover.png",
-      "page": "/assets/math/tombofthemask/"
-    },
-    {
-      "name": "Hill Climb Racing",
-      "img": "/assets/math/hillclimbracing/cover.png",
-      "page": "/assets/math/hillclimbracing/"
-    },
-    {
-      "name": "Gladihoppers",
-      "img": "/assets/math/gladihoppers/cover.png",
-      "page": "/assets/math/gladihoppers/"
-    },
-    {
-      "name": "Flappy Copter",
-      "img": "/assets/math/flappycopter/cover.png",
-      "page": "/assets/math/flappycopter/"
-    },
-    {
-      "name": "Kick That Buddy",
-      "img": "/assets/math/kickthatbuddy/cover.png",
-      "page": "/assets/math/kickthatbuddy/"
-    },
-    {
-      "name": "Grand Truckismo",
-      "img": "/assets/math/grandtruckismo/cover.png",
-      "page": "/assets/math/grandtruckismo/"
-    },
-    {
-      "name": "Turbo Racing 3",
-      "img": "/assets/math/turboracing3/cover.png",
-      "page": "/assets/math/turboracing3/"
-    },
-    {
-      "name": "The Binding of Issac",
-      "img": "/assets/math/tboi/cover.png",
-      "page": "/assets/math/tboi/"
-    },
-    {
-      "name": "Gun Knight",
-      "img": "/assets/math/gunknight/cover.png",
-      "page": "/assets/math/gunknight/"
-    },
-    {
-      "name": "The Oregon Trail",
-      "img": "/assets/math/oregon/cover.png",
-      "page": "/assets/math/oregon/"
-    },
-    {
-      "name": "Windows 98",
-      "img": "/assets/math/windows98/cover.png",
-      "page": "/assets/math/windows98/"
-    },
-    {
-      "name": "Creeper Craft",
-      "img": "/assets/math/creepercraft/cover.png",
-      "page": "/assets/math/creepercraft/"
-    },
-    {
-      "name": "Block Zappers 3",
-      "img": "/assets/math/blockzappers/logo.png",
-      "page": "/assets/math/blockzappers/"
-    },
-    {
-      "name": "Kerosene Client",
-      "img": "/assets/math/keroseneclient/cover.png",
-      "page": "/assets/math/keroseneclient/"
-    },
-    {
-      "name": "Frogger",
-      "img": "/assets/math/frogger/cover.png",
-      "page": "/assets/math/frogger/"
-    },
-    {
-      "name": "Simon",
-      "img": "/assets/math/simon/cover.png",
-      "page": "/assets/math/simon/"
-    },
-    {
-      "name": "Splash Dash Racing",
-      "img": "/assets/math/splashanddash/cover.png",
-      "page": "/assets/math/splashanddash/"
-    },
-    {
-      "name": "Super Mario 63",
-      "img": "/assets/math/mario63/cover.png",
-      "page": "/assets/math/mario63/"
-    },
-    {
-      "name": "Bike Champ 2",
-      "img": "/assets/math/bikechamp2/logo.jpg",
-      "page": "/assets/math/bikechamp2/"
-    },
-    {
-      "name": "Grand Theft Grotto",
-      "img": "/assets/math/gtg/cover.png",
-      "page": "/assets/math/gtg/"
-    },
-    {
-      "name": "Bike Champ",
-      "img": "/assets/math/bikechamp/logo.png",
-      "page": "/assets/math/bikechamp/"
-    },
-    {
-      "name": "Gloom",
-      "img": "/assets/math/gloom/cover.png",
-      "page": "/assets/math/gloom/"
-    },
-    {
-      "name": "Copter",
-      "img": "/assets/math/copter/cover.png",
-      "page": "/assets/math/copter/"
-    },
-    {
-      "name": "Minesweeper",
-      "img": "/assets/math/minesweeper/cover.png",
-      "page": "/assets/math/minesweeper/"
-    },
-    {
-      "name": "POOM",
-      "img": "/assets/math/poom/cover.png",
-      "page": "/assets/math/poom/"
-    },
-    {
-      "name": "Solitaire",
-      "img": "/assets/math/solitaire/cover.png",
-      "page": "/assets/math/solitaire/"
-    },
-    {
-      "name": "Spank the Monkey",
-      "img": "/assets/math/spankthemonkey/cover.png",
-      "page": "/assets/math/spankthemonkey/"
-    },
-    {
-      "name": "Pool",
-      "img": "/assets/math/pool/cover.png",
-      "page": "/assets/math/pool/"
-    },
-    {
-      "name": "Yohoho.io",
-      "img": "/assets/math/yohoho/cover.png",
-      "page": "/assets/math/yohoho/"
-    },
-    {
-      "name": "Tube Jumpers",
-      "img": "/assets/math/tube-jumpers/cover.png",
-      "page": "/assets/math/tube-jumpers/"
-    },
-    {
-      "name": "Hill Climb Racing 2",
-      "img": "/assets/math/hillclimbracing2/cover.png",
-      "page": "/assets/math/hillclimbracing2/"
-    },
-    {
-      "name": "DOOM",
-      "img": "/assets/math/doom/logo.png",
-      "page": "/assets/math/doom/"
-    },
-    {
-      "name": "Awesome Tanks",
-      "img": "/assets/math/awesometanks/cover.png",
-      "page": "/assets/math/awesometanks/"
-    },
-    {
-      "name": "Pong",
-      "img": "/assets/math/pong/cover.png",
-      "page": "/assets/math/pong/"
-    },
-    {
-      "name": "A Dance of Fire & Ice",
-      "img": "/assets/math/adofai/splash.png",
-      "page": "/assets/math/adofai/"
-    },
-    {
-      "name": "Friday Night Funkin",
-      "img": "/assets/math/fridaynightfunkin/favicon.png",
-      "page": "/assets/math/fridaynightfunkin/"
-    },
-    {
-      "name": "Worlds Hardest Game",
-      "img": "/assets/math/worldshardestgame/icon.png",
-      "page": "/assets/math/worldshardestgame/"
-    },
-    {
-      "name": "Celeste",
-      "img": "/assets/math/celeste/icon.png",
-      "page": "/assets/math/celeste/"
-    },
-    {
-      "name": "Mario",
-      "img": "/assets/math/mario/icon.png",
-      "page": "/assets/math/mario/"
-    },
-    {
-      "name": "60s Burger Run",
-      "img": "/assets/math/60sburgerrun/icon.png",
-      "page": "/assets/math/60sburgerrun/"
-    },
-    {
-      "name": "Cluster Rush",
-      "img": "/assets/math/cluster-rush/icon.jpg",
-      "page": "/assets/math/cluster-rush/"
-    },
-    {
-      "name": "Vex 3",
-      "img": "/assets/math/vex3/icon.png",
-      "page": "/assets/math/vex3/"
-    },
-    {
-      "name": "Adventure Capitalist",
-      "img": "/assets/math/adventure-capitalist/logo.webp",
-      "page": "/assets/math/adventure-capitalist/"
-    },
-    {
-      "name": "Bloons Tower Defense 3",
-      "img": "/assets/math/btd3/icon.png",
-      "page": "/assets/math/btd3/"
-    },
-    {
-      "name": "Avalanche",
-      "img": "/assets/math/avalanche/icon.png",
-      "page": "/assets/math/avalanche/"
-    },
-    {
       "name": "Slope",
-      "img": "/assets/math/slope/slope4.jpeg",
+      "img": "/assets/math/imgs/slope.png",
       "page": "/assets/math/slope/"
     },
     {
-      "name": "Cell Machine",
-      "img": "/assets/math/cell-machine/img/icon.png",
-      "page": "/assets/math/cell-machine/"
-    },
-    {
-      "name": "Run 2",
-      "img": "/assets/math/run2/icon.jpg",
-      "page": "/assets/math/run2/"
-    },
-    {
-      "name": "Vex 5",
-      "img": "/assets/math/vex5/icon.png",
-      "page": "/assets/math/vex5/"
-    },
-    {
-      "name": "Vex 4",
-      "img": "/assets/math/vex4/vex4.png",
-      "page": "/assets/math/vex4/"
-    },
-    {
-      "name": "Vex 2",
-      "img": "/assets/math/vex2/icon.png",
-      "page": "/assets/math/vex2/"
-    },
-    {
-      "name": "Crossy Road",
-      "img": "/assets/math/crossyroad/chicken.png",
-      "page": "/assets/math/crossyroad/"
-    },
-    {
-      "name": "Wall Smash",
-      "img": "/assets/math/wallsmash/icon.png",
-      "page": "/assets/math/wallsmash/"
-    },
-    {
-      "name": "Death Run 3D",
-      "img": "/assets/math/death-run-3d/img/death.png",
-      "page": "/assets/math/death-run-3d/"
-    },
-    {
-      "name": "Gun Mayhem 2",
-      "img": "/assets/math/gunmayhem2/icon.png",
-      "page": "/assets/math/gunmayhem2/"
-    },
-    {
-      "name": "CircloO",
-      "img": "/assets/math/circloo/icon.png",
-      "page": "/assets/math/circloo/"
-    },
-    {
-      "name": "Vex",
-      "img": "/assets/math/vex/icon.png",
-      "page": "/assets/math/vex/"
-    },
-    {
-      "name": "Stack",
-      "img": "/assets/math/stack/icon.png",
-      "page": "/assets/math/stack/"
-    },
-    {
-      "name": "xx142-b2.exe",
-      "img": "/assets/math/xx142-b2.exe/icon.png",
-      "page": "/assets/math/xx142-b2.exe/"
-    },
-    {
-      "name": "paper.io",
-      "img": "/assets/math/paperio/icon.png",
-      "page": "/assets/math/paperio/"
-    },
-    {
-      "name": "Chibi Knight",
-      "img": "/assets/math/chibiknight/icon.png",
-      "page": "/assets/math/chibiknight/"
-    },
-    {
-      "name": "1v1.lol",
-      "img": "/assets/math/1v1lol/splash.png",
+      "name": "1v1LOL",
+      "img": "/assets/math/imgs/1v1lol.jpeg",
       "page": "/assets/math/1v1lol/"
     },
     {
-      "name": "Dino",
-      "img": "/assets/math/dino/icon.png",
-      "page": "/assets/math/dino/"
+      "name": "Basket Ball Random",
+      "img": "/assets/math/imgs/basketballrandom.jpeg",
+      "page": "/assets/math/basketballrandom/"
     },
     {
-      "name": "Tetris",
-      "img": "/assets/math/tetris/icon.png",
-      "page": "/assets/math/tetris/"
+      "name": "Soccer Random",
+      "img": "/assets/math/imgs/soccerrandom.jpeg",
+      "page": "/assets/math/soccerrandom/"
     },
     {
-      "name": "Geometry Dash (Scratch)",
-      "img": "/assets/math/geometrydash/icon.png",
-      "page": "/assets/math/geometrydash/"
+      "name": "Volley Random",
+      "img": "/assets/math/imgs/volleyrandom.jpeg",
+      "page": "/assets/math/volleyrandom/"
     },
     {
-      "name": "Sand Game",
-      "img": "/assets/math/sand/icon.png",
-      "page": "/assets/math/sand/"
-    },
-    {
-      "name": "Dante",
-      "img": "/assets/math/dante/icon.png",
-      "page": "/assets/math/dante/"
-    },
-    {
-      "name": "Wordle",
-      "img": "/assets/math/wordle/icon.png",
-      "page": "/assets/math/wordle/"
-    },
-    {
-      "name": "Offline Paradise",
-      "img": "/assets/math/offlineparadise/icon.png",
-      "page": "/assets/math/offlineparadise/"
-    },
-    {
-      "name": "2048",
-      "img": "/assets/math/2048/icon.png",
-      "page": "/assets/math/2048/"
-    },
-    {
-      "name": "Doodle Jump",
-      "img": "/assets/math/doodlejump/icon.png",
-      "page": "/assets/math/doodlejump/"
-    },
-    {
-      "name": "Weave Silk",
-      "img": "/assets/math/weavesilk/icon.png",
-      "page": "/assets/math/weavesilk/"
-    },
-    {
-      "name": "Super Meat Boy",
-      "img": "/assets/math/supermeatboy/icon.png",
-      "page": "/assets/math/supermeatboy/"
-    },
-    {
-      "name": "Vex 6",
-      "img": "/assets/math/vex6/icon.png",
-      "page": "/assets/math/vex6/"
-    },
-    {
-      "name": "WebGL Fluid Sim",
-      "img": "/assets/math/fluidsim/icon.png",
-      "page": "/assets/math/fluidsim/"
-    },
-    {
-      "name": "Basketball Stars",
-      "img": "/assets/math/basketball-stars/icon.png",
-      "page": "/assets/math/basketball-stars/"
-    },
-    {
-      "name": "osu!",
-      "img": "/assets/math/osu/icon.png",
-      "page": "/assets/math/osu/"
-    },
-    {
-      "name": "Cookie Clicker",
-      "img": "/assets/math/cookieclicker/img/perfectCookie.png",
-      "page": "/assets/math/cookieclicker/"
-    },
-    {
-      "name": "Superhot",
-      "img": "/assets/math/superhot/icon.png",
-      "page": "/assets/math/superhot/"
-    },
-    {
-      "name": "Super Mario 64",
-      "img": "/assets/math/supermario64/icon.png",
-      "page": "/assets/math/supermario64/"
-    },
-    {
-      "name": "Gun Mayhem Redux",
-      "img": "/assets/math/gunmayhemredux/icon.png",
-      "page": "/assets/math/gunmayhemredux/"
-    },
-    {
-      "name": "I Wanna Be Thy Copy",
-      "img": "/assets/math/iwbtc/icon.png",
-      "page": "/assets/math/iwbtc/"
-    },
-    {
-      "name": "HexGL",
-      "img": "/assets/math/hexgl/icon_128.png",
-      "page": "/assets/math/hexgl/"
-    },
-    {
-      "name": "Champion Island",
-      "img": "/assets/math/championisland/icon.png",
-      "page": "/assets/math/championisland/"
-    },
-    {
-      "name": "Learn to Fly",
-      "img": "/assets/math/learntofly/icon.png",
-      "page": "/assets/math/learntofly/"
-    },
-    {
-      "name": "Wordle Bot",
-      "img": "/assets/math/wordlebot/icon.png",
-      "page": "/assets/math/wordlebot/"
-    },
-    {
-      "name": "Cut The Rope",
-      "img": "/assets/math/cuttherope/icon.png",
-      "page": "/assets/math/cuttherope/"
-    },
-    {
-      "name": "Chess",
-      "img": "/assets/math/chess/icon.png",
-      "page": "/assets/math/chess/"
-    },
-    {
-      "name": "Flappy Bird",
-      "img": "/assets/math/flappybird/icon.png",
-      "page": "/assets/math/flappybird/"
-    },
-    {
-      "name": "Lows Adventures 2",
-      "img": "/assets/math/lowsadventures2/icon.png",
-      "page": "/assets/math/lowsadventures2/"
-    },
-    {
-      "name": "Drift Boss",
-      "img": "/assets/math/drift-boss/icon.png",
-      "page": "/assets/math/drift-boss/"
-    },
-    {
-      "name": "Fireboy & Watergirl 1",
-      "img": "/assets/math/fireboywatergirl/icon.png",
-      "page": "/assets/math/fireboywatergirl/"
-    },
-    {
-      "name": "Gun Mayhem",
-      "img": "/assets/math/gunmayhem/icon.png",
-      "page": "/assets/math/gunmayhem/"
-    },
-    {
-      "name": "Duck Life 4",
-      "img": "/assets/math/ducklife4/icon.png",
-      "page": "/assets/math/ducklife4/"
-    },
-    {
-      "name": "Achievement Unlocked",
-      "img": "/assets/math/achieveunlocked/icon.png",
-      "page": "/assets/math/achieveunlocked/"
-    },
-    {
-      "name": "Achievement Unlocked 2",
-      "img": "/assets/math/achieveunlocked2/icon.png",
-      "page": "/assets/math/achieveunlocked2/"
-    },
-    {
-      "name": "This Is The Only Level",
-      "img": "/assets/math/thisistheonlylevel/logo.png",
-      "page": "/assets/math/thisistheonlylevel/"
-    },
-    {
-      "name": "This Is The Only Level 2",
-      "img": "/assets/math/thisistheonlylevel2/icon.png",
-      "page": "/assets/math/thisistheonlylevel2/"
-    },
-    {
-      "name": "Bitlife",
-      "img": "/assets/math/bitlife/bitlife.png",
-      "page": "/assets/math/bitlife/"
-    },
-    {
-      "name": "Duck Life 1",
-      "img": "/assets/math/ducklife1/ducklife1.png",
-      "page": "/assets/math/ducklife1/"
-    },
-    {
-      "name": "Duck Life 2",
-      "img": "/assets/math/ducklife2/ducklife2.png",
-      "page": "/assets/math/ducklife2/"
-    },
-    {
-      "name": "Duck Life 3",
-      "img": "/assets/math/ducklife3/ducklife3.png",
-      "page": "/assets/math/ducklife3/"
-    },
-    {
-      "name": "ovo",
-      "img": "/assets/math/ovo/ovo3.png",
-      "page": "/assets/math/ovo/"
-    },
-    {
-      "name": "There Is No Game",
-      "img": "/assets/math/thereisnogame/icon-256.png",
-      "page": "/assets/math/thereisnogame/"
-    },
-    {
-      "name": "Universal Paperclips",
-      "img": "/assets/math/universal-paperclips/universal-paperclips.png",
-      "page": "/assets/math/universal-paperclips/"
-    },
-    {
-      "name": "Learn to Fly 2",
-      "img": "/assets/math/learntofly2/logo.jpg",
-      "page": "/assets/math/learntofly2/"
-    },
-    {
-      "name": "Worlds Hardest Game 2",
-      "img": "/assets/math/worldhardestgame2/the-worlds-hardest-game-2.jpg",
-      "page": "/assets/math/worldhardestgame2/"
-    },
-    {
-      "name": "Vex 7",
-      "img": "/assets/math/vex7/icon.jpeg",
-      "page": "/assets/math/vex7/"
-    },
-    {
-      "name": "Slope Ball",
-      "img": "/assets/math/slope-ball/icon.jpg",
-      "page": "/assets/math/slope-ball/"
-    },
-    {
-      "name": "Slope 2",
-      "img": "/assets/math/slope2/slope-2-logo.png",
-      "page": "/assets/math/slope2/"
-    },
-    {
-      "name": "Learn to Fly Idle",
-      "img": "/assets/math/learntoflyidle/icon.jpg",
-      "page": "/assets/math/learntoflyidle/"
-    },
-    {
-      "name": "Red Ball 4",
-      "img": "/assets/math/redball4/redball4.webp",
-      "page": "/assets/math/redball4/"
-    },
-    {
-      "name": "Red Ball 4 Vol 3",
-      "img": "/assets/math/redball4vol3/redball4vol3.webp",
-      "page": "/assets/math/redball4vol3/"
-    },
-    {
-      "name": "Red Ball 4 Vol 2",
-      "img": "/assets/math/redball4vol2/redball4vol2.webp",
-      "page": "/assets/math/redball4vol2/"
-    },
-    {
-      "name": "Red Ball 3",
-      "img": "/assets/math/redball3/redball3.png",
-      "page": "/assets/math/redball3/"
-    },
-    {
-      "name": "Snake",
-      "img": "/assets/math/snake/snake.png",
-      "page": "/assets/math/snake/"
-    },
-    {
-      "name": "Pacman",
-      "img": "/assets/math/pacman/icon.png",
-      "page": "/assets/math/pacman/"
-    },
-    {
-      "name": "Color Switch",
-      "img": "/assets/math/colorswitch/colorswitch.png",
-      "page": "/assets/math/colorswitch/"
-    },
-    {
-      "name": "Halloween 2016",
-      "img": "/assets/math/halloween2016/logo.png",
-      "page": "/assets/math/halloween2016/"
-    },
-    {
-      "name": "Game Maker Doodle",
-      "img": "/assets/math/gamemaker/images.jpeg",
-      "page": "/assets/math/gamemaker/"
-    },
-    {
-      "name": "The Impossible Game",
-      "img": "/assets/math/theimpossiblegame/image.jpg",
-      "page": "/assets/math/theimpossiblegame/"
-    },
-    {
-      "name": "Papas Freezeria",
-      "img": "/assets/math/papasfreezeria/images.jpeg",
-      "page": "/assets/math/papasfreezeria/"
-    },
-    {
-      "name": "Papas Pizzeria",
-      "img": "/assets/math/papaspizzeria/images.jpeg",
-      "page": "/assets/math/papaspizzeria/"
-    },
-    {
-      "name": "Idle Breakout",
-      "img": "/assets/math/idlebreakout/image.png",
-      "page": "/assets/math/idlebreakout/"
-    },
-    {
-      "name": "Stickman Hook",
-      "img": "/assets/math/stickman-hook/icon.jpg",
-      "page": "/assets/math/stickman-hook/"
-    },
-    {
-      "name": "Drift Hunters",
-      "img": "/assets/math/drifthunters/icon.png",
-      "page": "/assets/math/drifthunters/"
-    },
-    {
-      "name": "Rocket League",
-      "img": "/assets/math/rocketleague/splash.webp",
-      "page": "/assets/math/rocketleague/"
-    },
-    {
-      "name": "Little Alchemy",
-      "img": "/assets/math/littlealchemy/images/192-alpha.png",
-      "page": "/assets/math/littlealchemy/"
-    },
-    {
-      "name": "Retro Bowl",
-      "img": "/assets/math/retrobowl/img/icon.jpg",
-      "page": "/assets/math/retrobowl/"
-    },
-    {
-      "name": "Tunnel Rush",
-      "img": "/assets/math/tunnelrush/tunnel.jpg",
-      "page": "/assets/math/tunnelrush/"
-    },
-    {
-      "name": "Moto X3M",
-      "img": "/assets/math/motox3m/splash.jpg",
-      "page": "/assets/math/motox3m/"
-    },
-    {
-      "name": "Moto X3M Winter",
-      "img": "/assets/math/motox3m-winter/download.jpeg",
-      "page": "/assets/math/motox3m-winter/"
-    },
-    {
-      "name": "Moto X3M Pool Party",
-      "img": "/assets/math/motox3m-pool/splash.jpg",
-      "page": "/assets/math/motox3m-pool/"
-    },
-    {
-      "name": "Five Nights at Freddy's",
-      "img": "/assets/math/fnaf/splash.jpg",
-      "page": "/assets/math/fnaf/"
-    },
-    {
-      "name": "Burrito Bison",
-      "img": "/assets/math/burritobison/Build/logo.png",
-      "page": "/assets/math/burritobison/"
-    },
-    {
-      "name": "Cut The Rope Holday",
-      "img": "/assets/math/cuttherope-holiday/Holiday_Gift.webp",
-      "page": "/assets/math/cuttherope-holiday/"
-    },
-    {
-      "name": "Helix Jump",
-      "img": "/assets/math/helixjump/gameIcon.png",
-      "page": "/assets/math/helixjump/"
-    },
-    {
-      "name": "Clicker Heroes",
-      "img": "/assets/math/clickerheroes/clicker-heroes.png",
-      "page": "/assets/math/clickerheroes/"
-    },
-    {
-      "name": "Jetpack Joyride",
-      "img": "/assets/math/jetpackjoyride/logo.jpeg",
-      "page": "/assets/math/jetpackjoyride/"
-    },
-    {
-      "name": "Fruit Ninja",
-      "img": "/assets/math/fruitninja/FruitNinjaTeaser.jpg",
-      "page": "/assets/math/fruitninja/"
-    },
-    {
-      "name": "Tron",
-      "img": "/assets/math/tron/icon.png",
-      "page": "/assets/math/tron/"
-    },
-    {
-      "name": "Thirty Dollar Website",
-      "img": "/assets/math/thirtydollarwebsite/assets/🗿.png",
-      "page": "/assets/math/thirtydollarwebsite/"
-    },
-    {
-      "name": "n-gon",
-      "img": "/assets/math/ngon/favicon.ico",
-      "page": "/assets/math/ngon/"
-    },
-    {
-      "name": "Subway Surfers",
-      "img": "/assets/math/subway-surfers-ny/NewYorkIcon.png",
-      "page": "/assets/math/subway-surfers-ny/"
-    },
-    {
-      "name": "Madalin Cars",
-      "img": "/assets/math/madalincars/icon.png",
-      "page": "/assets/math/madalincars/"
-    },
-    {
-      "name": "Run 3",
-      "img": "/assets/math/run3/icon.jpeg",
-      "page": "/assets/math/run3/"
-    },
-    {
-      "name": "Dragon Ball Devolution",
-      "img": "/assets/math/dragonballdevolution/images.jpeg",
-      "page": "/assets/math/dragonballdevolution/"
-    },
-    {
-      "name": "Run",
-      "img": "/assets/math/run/icon.jpeg",
-      "page": "/assets/math/run/"
-    },
-    {
-      "name": "Super Smash Flash",
-      "img": "/assets/math/supersmashflash/ssf.jpg",
-      "page": "/assets/math/supersmashflash/"
-    },
-    {
-      "name": "Stickman Climb",
-      "img": "/assets/math/stickmanclimb/icon.avif",
-      "page": "/assets/math/stickmanclimb/"
-    },
-    {
-      "name": "Getaway Shooter",
-      "img": "/assets/math/getawayshooter/Untitled.jpeg",
-      "page": "/assets/math/getawayshooter/"
+      "name": "Boxing Random",
+      "img": "/assets/math/imgs/boxingrandom.jpeg",
+      "page": "/assets/math/boxingrandom/"
     },
     {
       "name": "Riddle School",
-      "img": "/assets/math/riddleschool/RiddleSchool2.png",
-      "page": "/assets/math/riddleschool/"
+      "img": "/assets/math/imgs/riddleschool.png",
+      "page": "/assets/math/riddleschool1/"
     },
     {
       "name": "Riddle School 2",
-      "img": "/assets/math/riddleschool2/icon.png",
+      "img": "/assets/math/imgs/riddleschool2.jpeg",
       "page": "/assets/math/riddleschool2/"
     },
     {
       "name": "Riddle School 3",
-      "img": "/assets/math/riddleschool3/riddle-school-3.webp",
+      "img": "/assets/math/imgs/riddleschool3.jpeg",
       "page": "/assets/math/riddleschool3/"
     },
     {
       "name": "Riddle School 4",
-      "img": "/assets/math/riddleschool4/Untitled.jpeg",
+      "img": "/assets/math/imgs/riddleschool4.jpeg",
       "page": "/assets/math/riddleschool4/"
     },
     {
       "name": "Riddle School 5",
-      "img": "/assets/math/riddleschool5/Untitled.jpeg",
+      "img": "/assets/math/imgs/riddleschool5.jpeg",
       "page": "/assets/math/riddleschool5/"
     },
     {
       "name": "Riddle Transfer",
-      "img": "/assets/math/riddleschooltransfer/Untitled.jpeg",
-      "page": "/assets/math/riddleschooltransfer/"
+      "img": "/assets/math/imgs/riddletransfer.jpeg",
+      "page": "/assets/math/riddletransfer/"
     },
     {
       "name": "Riddle Transfer 2",
-      "img": "/assets/math/riddleschooltransfer2/aUntitled.jpeg",
-      "page": "/assets/math/riddleschooltransfer2/"
-    },
-    {
-      "name": "Zombocalypse",
-      "img": "/assets/math/zombocalypse/zombocalypse-2.webp",
-      "page": "/assets/math/zombocalypse/"
-    },
-    {
-      "name": "Papas Burgeria",
-      "img": "/assets/math/papasburgeria/images.jpeg",
-      "page": "/assets/math/papasburgeria/"
-    },
-    {
-      "name": "Duck Life 5",
-      "img": "/assets/math/ducklife5/ducklife5.png",
-      "page": "/assets/math/ducklife5/"
-    },
-    {
-      "name": "Duck Life 6",
-      "img": "/assets/math/ducklife6/ducklife5.png",
-      "page": "/assets/math/ducklife6/"
-    },
-    {
-      "name": "webretro",
-      "img": "/assets/math/webretro/assets/icons/icon204.png",
-      "page": "/assets/math/webretro/"
-    },
-    {
-      "name": "osu!mania",
-      "img": "/assets/math/osumania/mania.jpg",
-      "page": "/assets/math/osumania/"
-    },
-    {
-      "name": "Five Nights at Freddy's 2",
-      "img": "/assets/math/fnaf2/project/splash.webp",
-      "page": "/assets/math/fnaf2/"
-    },
-    {
-      "name": "Five Nights at Freddy's 3",
-      "img": "/assets/math/fnaf3/project/splash.webp",
-      "page": "/assets/math/fnaf3/"
-    },
-    {
-      "name": "Five Nights at Freddy's 4",
-      "img": "/assets/math/fnaf4/project/splash.webp",
-      "page": "/assets/math/fnaf4/"
-    },
-    {
-      "name": "Temple Run 2",
-      "img": "/assets/math/templerun2/img/icons/icon-128x128.png",
-      "page": "/assets/math/templerun2/"
-    },
-    {
-      "name": "Happy Wheels",
-      "img": "/assets/math/happywheels/Untitled.jpeg",
-      "page": "/assets/math/happywheels/"
-    },
-    {
-      "name": "Fireboy & Watergirl 2",
-      "img": "/assets/math/fireboywatergirl2/Untitled.jpeg",
-      "page": "/assets/math/fireboywatergirl2/"
-    },
-    {
-      "name": "Fireboy & Watergirl 3",
-      "img": "/assets/math/fireboywatergirl3/icon.png",
-      "page": "/assets/math/fireboywatergirl3/"
-    },
-    {
-      "name": "Fireboy & Watergirl 4",
-      "img": "/assets/math/fireboywatergirl4/300.jpg",
-      "page": "/assets/math/fireboywatergirl4/"
-    },
-    {
-      "name": "Rise Higher",
-      "img": "/assets/math/risehigher/media/graphics/promo/Icons/128x128.png",
-      "page": "/assets/math/risehigher/"
-    },
-    {
-      "name": "Hextris",
-      "img": "/assets/math/hextris/images/icons/apple-touch-152.png",
-      "page": "/assets/math/hextris/"
-    },
-    {
-      "name": "Sprinter",
-      "img": "/assets/math/sprinter/icon.jpeg",
-      "page": "/assets/math/sprinter/"
+      "img": "/assets/math/imgs/riddletransfer2.jpeg",
+      "page": "/assets/math/riddletransfer2/"
     },
     {
       "name": "Amazing Rope Police",
-      "img": "/assets/math/amazing-rope-police/splash.jpeg",
+      "img": "/assets/math/imgs/amazingstrangeropepolice.jpeg",
       "page": "/assets/math/amazing-rope-police/"
     },
     {
-      "name": "Geometry Rash",
-      "img": "/assets/math/geometryrash/icon-114.png",
-      "page": "/assets/math/geometryrash/"
+      "name": "2048",
+      "img": "/assets/math/imgs/2048.png",
+      "page": "/assets/math/2048/"
     },
     {
-      "name": "Bloons Tower Defense",
-      "img": "/assets/math/btd/logo.webp",
-      "page": "/assets/math/btd/"
+      "name": "Basket Ball Stars",
+      "img": "/assets/math/imgs/basketballstars.jpeg",
+      "page": "/assets/math/basketball-stars/"
     },
     {
-      "name": "Bloons Tower Defense 2",
-      "img": "/assets/math/btd2/logo.webp",
-      "page": "/assets/math/btd2/"
+      "name": "Crazy Cattle",
+      "img": "/assets/math/imgs/crazycattle.jpeg",
+      "page": "/assets/math/crazycattle/"
     },
     {
-      "name": "Bloons Tower Defense 4",
-      "img": "/assets/math/btd4/logo.jpg",
-      "page": "/assets/math/btd4/"
-    },
-    {
-      "name": "Bloons Tower Defense 6",
-      "img": "/assets/math/btd6/uwu.png",
-      "page": "/assets/math/btd6/"
-    },
-    {
-      "name": "Bloons Tower Defense 5",
-      "img": "/assets/math/btd5/wogo.png",
-      "page": "/assets/math/btd5/"
-    },
-    {
-      "name": "Last Horizon",
-      "img": "/assets/math/lasthorizon/wogo owo.jpg",
-      "page": "/assets/math/lasthorizon/"
-    },
-    {
-      "name": "1 on 1 Soccer",
-      "img": "/assets/math/1on1soccer/logo.jpg",
-      "page": "/assets/math/1on1soccer/"
-    },
-    {
-      "name": "Among Us",
-      "img": "/assets/math/amongus/amgojs]_.png",
-      "page": "/assets/math/amongus/"
-    },
-    {
-      "name": "Among Us (better)",
-      "img": "/assets/math/amongusnew/amgojs]_.png",
-      "page": "/assets/math/amongusnew/"
-    },
-    {
-      "name": "Bad Piggies",
-      "img": "/assets/math/badpiggies/badpiggies.png",
-      "page": "/assets/math/badpiggies/"
-    },
-    {
-      "name": "Sandtrix",
-      "img": "/assets/math/sandtrix/assets/sprites/appicon.png",
-      "page": "/assets/math/sandtrix/"
-    },
-    {
-      "name": "Blood Tournament",
-      "img": "/assets/math/bloodtournament/blood-tournament.jpg",
-      "page": "/assets/math/bloodtournament/"
-    },
-    {
-      "name": "Gold Digger FRVR",
-      "img": "/assets/math/golddiggerfrvr/images.jpeg",
-      "page": "/assets/math/golddiggerfrvr/"
-    },
-    {
-      "name": "Retro Bowl College",
-      "img": "/assets/math/retrobowlcollege/unnamed.png",
-      "page": "/assets/math/retrobowlcollege/"
-    },
-    {
-      "name": "We Become What We Behold",
-      "img": "/assets/math/wbwwb/wbwwb.webp",
-      "page": "/assets/math/wbwwb/"
-    },
-    {
-      "name": "Nut Simulator",
-      "img": "/assets/math/nutsim/images/icon.png",
-      "page": "/assets/math/nutsim/"
-    },
-    {
-      "name": "Pokemon",
-      "img": "/assets/math/pokemon/logo.jpg",
-      "page": "/assets/math/pokemon/"
-    },
-    {
-      "name": "Super Smash Bros",
-      "img": "/assets/math/supersmashbros/logo.jpg",
-      "page": "/assets/math/supersmashbros/"
-    },
-    {
-      "name": "Skibidi 1 v 100",
-      "img": "/assets/math/skibiditoilet/logo.png",
-      "page": "/assets/math/skibiditoilet/"
-    },
-    {
-      "name": "Drive Mad",
-      "img": "/assets/math/drivemad/icons/icon-128.png",
-      "page": "/assets/math/drivemad/"
-    },
-    {
-      "name": "Rooftop Snipers",
-      "img": "/assets/math/rooftopsnipers/logo.png",
-      "page": "/assets/math/rooftopsnipers/"
-    },
-    {
-      "name": "Funny Shooter",
-      "img": "/assets/math/funnyshooter/icon.jpeg",
-      "page": "/assets/math/funnyshooter/"
-    },
-    {
-      "name": "Monkey Mart",
-      "img": "/assets/math/monkeymart/unnamed.png",
-      "page": "/assets/math/monkeymart/"
-    },
-    {
-      "name": "Factory Balls",
-      "img": "/assets/math/factoryballs/fac.png",
-      "page": "/assets/math/factoryballs/"
-    },
-    {
-      "name": "Factory Balls Forever",
-      "img": "/assets/math/factoryballsforever/fac.png",
-      "page": "/assets/math/factoryballsforever/"
-    },
-    {
-      "name": "Funny Shooter 2",
-      "img": "/assets/math/funnyshooter2/894abba63a6b23fed823f404831f444f.jpeg",
-      "page": "/assets/math/funnyshooter2/"
-    },
-    {
-      "name": "Bad Time Simulator",
-      "img": "/assets/math/badtimesimulator/icon-114.png",
-      "page": "/assets/math/badtimesimulator/"
-    },
-    {
-      "name": "Commodore 64 Clicker",
-      "img": "/assets/math/commodoreclicker/test.jpg",
-      "page": "/assets/math/commodoreclicker/"
-    },
-    {
-      "name": "Stickman Boost",
-      "img": "/assets/math/stickmanboost/base/img1.jpg",
-      "page": "/assets/math/stickmanboost/"
-    },
-    {
-      "name": "Stickman Golf",
-      "img": "/assets/math/stickmangolf/gold.png",
-      "page": "/assets/math/stickmangolf/"
-    },
-    {
-      "name": "Basket Bros",
-      "img": "/assets/math/basketbros/thumb.jpg",
-      "page": "/assets/math/basketbros/"
-    },
-    {
-      "name": "justfall.lol",
-      "img": "/assets/math/justfalllol/unnamed.png",
-      "page": "/assets/math/justfalllol/"
-    },
-    {
-      "name": "Doge Miner",
-      "img": "/assets/math/dogeminer/img/dogeminer_300x300.png",
-      "page": "/assets/math/dogeminer/"
-    },
-    {
-      "name": "Soccer Random",
-      "img": "/assets/math/soccerrandom/test.png",
-      "page": "/assets/math/soccerrandom/"
-    },
-    {
-      "name": "Basket Random",
-      "img": "/assets/math/basketrandom/test.png",
-      "page": "/assets/math/basketrandom/"
-    },
-    {
-      "name": "Boxing Random",
-      "img": "/assets/math/boxingrandom/512x512.jpg",
-      "page": "/assets/math/boxingrandom/"
-    },
-    {
-      "name": "Funny Mad Racing",
-      "img": "/assets/math/funnymadracing/logo.webp",
-      "page": "/assets/math/funnymadracing/"
-    },
-    {
-      "name": "hole.io",
-      "img": "/assets/math/holeio/feature800x470.png",
-      "page": "/assets/math/holeio/"
-    },
-    {
-      "name": "Time Shooter",
-      "img": "/assets/math/timeshooter1/logo.png",
-      "page": "/assets/math/timeshooter1/"
-    },
-    {
-      "name": "Time Shooter 2",
-      "img": "/assets/math/timeshooter2/ts2.jpg",
-      "page": "/assets/math/timeshooter2/"
-    },
-    {
-      "name": "Time Shooter 3",
-      "img": "/assets/math/timeshooter3/logo.png",
-      "page": "/assets/math/timeshooter3/"
-    },
-    {
-      "name": "Townscaper",
-      "img": "/assets/math/townscaper/icon.png",
-      "page": "/assets/math/townscaper/"
-    },
-    {
-      "name": "Bad Ice Cream",
-      "img": "/assets/math/badicecream/bad-ice-cream.png",
-      "page": "/assets/math/badicecream/"
-    },
-    {
-      "name": "Bad Ice Cream 2",
-      "img": "/assets/math/badicecream2/bad-ice-cream-2.png",
-      "page": "/assets/math/badicecream2/"
-    },
-    {
-      "name": "Bad Ice Cream 3",
-      "img": "/assets/math/badicecream3/bad-ice-cream-3.png",
-      "page": "/assets/math/badicecream3/"
-    },
-    {
-      "name": "Bob the Robber 2",
-      "img": "/assets/math/bobtherobber2/icon.png",
-      "page": "/assets/math/bobtherobber2/"
-    },
-    {
-      "name": "Boxing Physics 2",
-      "img": "/assets/math/boxingphysics2/icon.png",
-      "page": "/assets/math/boxingphysics2/"
-    },
-    {
-      "name": "Burger and Frights",
-      "img": "/assets/math/burgerandfrights/icon.png",
-      "page": "/assets/math/burgerandfrights/"
-    },
-    {
-      "name": "Flippy Fish",
-      "img": "/assets/math/flippyfish/icon.png",
-      "page": "/assets/math/flippyfish/"
-    },
-    {
-      "name": "Knife Hit",
-      "img": "/assets/math/knifehit/icon.png",
-      "page": "/assets/math/knifehit/"
-    },
-    {
-      "name": "Lazy Jump 3D",
-      "img": "/assets/math/lazyjump3d/icon.png",
-      "page": "/assets/math/lazyjump3d/"
-    },
-    {
-      "name": "Moto X3M Spooky",
-      "img": "/assets/math/motox3m-spooky/icon.png",
-      "page": "/assets/math/motox3m-spooky/"
-    },
-    {
-      "name": "Rooftop Snipers 2",
-      "img": "/assets/math/rooftopsnipers2/icon.png",
-      "page": "/assets/math/rooftopsnipers2/"
-    },
-    {
-      "name": "Skibidi Toilet Attack",
-      "img": "/assets/math/skibiditoiletattack/logo.png",
-      "page": "/assets/math/skibiditoiletattack/"
-    },
-    {
-      "name": "Tiny Fishing",
-      "img": "/assets/math/tinyfishing/thumb.png",
-      "page": "/assets/math/tinyfishing/"
-    },
-    {
-      "name": "TU-95",
-      "img": "/assets/math/tu95/tu-95.webp",
-      "page": "/assets/math/tu95/"
-    },
-    {
-      "name": "TU-46",
-      "img": "/assets/math/tu46/tu-46.webp",
-      "page": "/assets/math/tu46/"
-    },
-    {
-      "name": "Russian Car Driver",
-      "img": "/assets/math/russiancardriver/russian-car-driver.webp",
-      "page": "/assets/math/russiancardriver/"
-    },
-    {
-      "name": "Legend of Zelda - Ocarina of Time",
-      "img": "/assets/math/ocarinaoftime/oc.jpg",
-      "page": "/assets/math/ocarinaoftime/"
-    },
-    {
-      "name": "Metroid: Zero Mission",
-      "img": "/assets/math/metroidzeromission/zero.jpeg",
-      "page": "/assets/math/metroidzeromission/"
-    },
-    {
-      "name": "Guilty Gear",
-      "img": "/assets/math/guiltygear/ggx.jpg",
-      "page": "/assets/math/guiltygear/"
-    },
-    {
-      "name": "A Dark Room",
-      "img": "/assets/math/adarkroom/favicon.ico",
-      "page": "/assets/math/adarkroom/"
-    },
-    {
-      "name": "Fancy Pants Adventures",
-      "img": "/assets/math/fancypantsadventures/fpa.webp",
-      "page": "/assets/math/fancypantsadventures/"
-    },
-    {
-      "name": "Fancy Pants Adventures 2",
-      "img": "/assets/math/fancypantsadventures2/fpa2.avif",
-      "page": "/assets/math/fancypantsadventures2/"
-    },
-    {
-      "name": "Line Rider",
-      "img": "/assets/math/linerider/boosh.png",
-      "page": "/assets/math/linerider/"
-    },
-    {
-      "name": "Funny Ball Game",
-      "img": "/assets/math/funnyballgame/ball.jpg",
-      "page": "/assets/math/funnyballgame/"
-    },
-    {
-      "name": "Henry Stickmin - Stealing the Diamond",
-      "img": "/assets/math/stealingthediamond/diamante.avif",
-      "page": "/assets/math/stealingthediamond/"
-    },
-    {
-      "name": "Henry Stickmin - Breaking the Bank",
-      "img": "/assets/math/breakingthebank/balling.avif",
-      "page": "/assets/math/breakingthebank/"
-    },
-    {
-      "name": "Henry Stickmin - Escaping the Prison",
-      "img": "/assets/math/escapingtheprison/pwison.avif",
-      "page": "/assets/math/escapingtheprison/"
-    },
-    {
-      "name": "Henry Stickmin - Fleeing the Complex",
-      "img": "/assets/math/fleeingthecomplex/flee.jpg",
-      "page": "/assets/math/fleeingthecomplex/"
-    },
-    {
-      "name": "Henry Stickmin - Infiltrating the Airship",
-      "img": "/assets/math/infiltratingtheairship/air.avif",
-      "page": "/assets/math/infiltratingtheairship/"
-    },
-    {
-      "name": "Pandemic",
-      "img": "/assets/math/pandemic/sddefault.jpg",
-      "page": "/assets/math/pandemic/"
-    },
-    {
-      "name": "Pandemic 2",
-      "img": "/assets/math/pandemic2/pan2.webp",
-      "page": "/assets/math/pandemic2/"
-    },
-    {
-      "name": "Age of War",
-      "img": "/assets/math/ageofwar/warofage.jpg",
-      "page": "/assets/math/ageofwar/"
-    },
-    {
-      "name": "Soundboard",
-      "img": "/assets/math/soundboard/bleep.png",
-      "page": "/assets/math/soundboard/"
-    },
-    {
-      "name": "The Impossible Quiz",
-      "img": "/assets/math/theimpossiblequiz/tiq.avif",
-      "page": "/assets/math/theimpossiblequiz/"
-    },
-    {
-      "name": "2D Rocket League",
-      "img": "/assets/math/2drocketleague/unnamed.png",
-      "page": "/assets/math/2drocketleague/"
-    },
-    {
-      "name": "Pizza Tower",
-      "img": "/assets/math/pizzatower/images/menubg.png",
-      "page": "/assets/math/pizzatower/"
-    },
-    {
-      "name": "Monster Tracks",
-      "img": "/assets/math/monstertracks/webapp/cover.jpg",
-      "page": "/assets/math/monstertracks/"
-    },
-    {
-      "name": "Totally Accurate Battle Simulator",
-      "img": "/assets/math/tabs/unnamed.png",
-      "page": "/assets/math/tabs/"
-    },
-    {
-      "name": "CSGO Case Clicker",
-      "img": "/assets/math/csgoclicker/images/case1.png",
-      "page": "/assets/math/csgoclicker/"
-    },
-    {
-      "name": "The Final Earth 2",
-      "img": "/assets/math/thefinalearth2/icons/favicon.png",
-      "page": "/assets/math/thefinalearth2/"
-    },
-    {
-      "name": "Baldi's Basics",
-      "img": "/assets/math/baldis-basics/splash.png",
-      "page": "/assets/math/baldis-basics/"
-    },
-    {
-      "name": "Cubefield",
-      "img": "/assets/math/cubefield/assets/unnamed.png",
-      "page": "/assets/math/cubefield/"
-    },
-    {
-      "name": "Bit Planes",
-      "img": "/assets/math/bit-planes/bitplanes.png",
-      "page": "/assets/math/bit-planes/"
-    },
-    {
-      "name": "Snow Rider 3D",
-      "img": "/assets/math/snowrider3d/snow.png",
-      "page": "/assets/math/snowrider3d/"
-    },
-    {
-      "name": "Dadish",
-      "img": "/assets/math/dadish/favicon.png",
-      "page": "/assets/math/dadish/"
-    },
-    {
-      "name": "Dadish 2",
-      "img": "/assets/math/dadish2/favicon.png",
-      "page": "/assets/math/dadish2/"
-    },
-    {
-      "name": "Dadish 3",
-      "img": "/assets/math/dadish3/splash.png",
-      "page": "/assets/math/dadish3/"
-    },
-    {
-      "name": "Watermelon Game",
-      "img": "/assets/math/watermelongame/assets/sprites/tittle.png",
-      "page": "/assets/math/watermelongame/"
-    },
-    {
-      "name": "Crimson Fantasia",
-      "img": "/assets/math/crimsonfantasia/14qAOu.png",
-      "page": "/assets/math/crimsonfantasia/"
+      "name": "Eaglercraft",
+      "img": "/assets/math/imgs/eaglercraft.jpeg",
+      "page": "/assets/math/eaglercraft/"
     },
     {
       "name": "Geometry Dash Lite",
-      "img": "/assets/math/gdlite/logo.png",
-      "page": "/assets/math/gdlite/"
+      "img": "/assets/math/imgs/geometrydash.jpeg",
+      "page": "/assets/math/gd/"
     },
     {
-      "name": "Virtual x86",
-      "img": "/assets/math/v86/favicon.ico",
-      "page": "/assets/math/v86/"
+      "name": "Stick Man Hook",
+      "img": "/assets/math/imgs/stickmanhook.jpeg",
+      "page": "/assets/math/stickmanhook/"
     },
     {
-      "name": "Idle Research",
-      "img": "/assets/math/idleresearch/cover-1660205761867.png",
-      "page": "/assets/math/idleresearch/"
+      "name": "Stick Merge",
+      "img": "/assets/math/imgs/stickmerge.jpeg",
+      "page": "/assets/math/stickmerge/"
     },
     {
-      "name": "10 Minutes Till Dawn",
-      "img": "/assets/math/10minutestilldawn/splash.png",
-      "page": "/assets/math/10minutestilldawn/"
+      "name": "Poly Track",
+      "img": "/assets/math/imgs/polytrack.jpeg",
+      "page": "/assets/math/polytrack/"
     },
     {
-      "name": "Friday Night Funkin: Mid Fight Masses",
-      "img": "/assets/math/fnfmidfight/fnfmidfight.png",
-      "page": "/assets/math/fnfmidfight/"
+      "name": "Red Ball 4",
+      "img": "/assets/math/imgs/redball4.jpeg",
+      "page": "/assets/math/redball4/"
     },
     {
-      "name": "Papas Donuteria",
-      "img": "/assets/math/papasdonuteria/papasdonuteria.png",
-      "page": "/assets/math/papasdonuteria/"
+      "name": "Papas Pizzeria",
+      "img": "/assets/math/imgs/papaspizzeria.webp",
+      "page": "/assets/math/papaspizzaria/"
     },
     {
-      "name": "Papas Pancakeria",
-      "img": "/assets/math/papaspancakeria/papaspancakeria.png",
-      "page": "/assets/math/papaspancakeria/"
+      "name": "Papas Burgeria",
+      "img": "/assets/math/imgs/papasburgeria.webp",
+      "page": "/assets/math/papasburgeria/"
     },
     {
-      "name": "Papas Scooperia",
-      "img": "/assets/math/papasscooperia/papasscooperia.png",
-      "page": "/assets/math/papasscooperia/"
+      "name": "Papas Hot Doggeria",
+      "img": "/assets/math/imgs/papashotdoggeria.webp",
+      "page": "/assets/math/papashotdoggeria/"
     },
     {
-      "name": "Papas Tacomia",
-      "img": "/assets/math/papastacomia/papastacomia.png",
+      "name": "Papas Taco Mia",
+      "img": "/assets/math/imgs/papastacomia.jpeg",
       "page": "/assets/math/papastacomia/"
     },
     {
-      "name": "Territorial.io",
-      "img": "/assets/math/territorialio/territorialio.png",
-      "page": "/assets/math/territorialio/"
-    },
-    {
-      "name": "Theme Hotel",
-      "img": "/assets/math/themehotel/themehotel.png",
-      "page": "/assets/math/themehotel/"
-    },
-    {
-      "name": "Thumb Fighter",
-      "img": "/assets/math/thumbfighter/thumbfighter.png",
-      "page": "/assets/math/thumbfighter/"
-    },
-    {
-      "name": "The Enchanted Cave 2",
-      "img": "/assets/math/enchantedcave2/icon.png",
-      "page": "/assets/math/enchantedcave2/"
-    },
-    {
-      "name": "Animal Crossing Wild World",
-      "img": "/assets/math/animalcrossingwildworld/animalcrossingwildworld.png",
-      "page": "/assets/math/animalcrossingwildworld/"
-    },
-    {
-      "name": "Banjo Kazooie",
-      "img": "/assets/math/banjokazooie/banjokazooie.png",
-      "page": "/assets/math/banjokazooie/"
-    },
-    {
-      "name": "Donkey Kong 64",
-      "img": "/assets/math/donkeykong64/donkeykong64.png",
-      "page": "/assets/math/donkeykong64/"
-    },
-    {
-      "name": "Doom 64",
-      "img": "/assets/math/doom64/doom64.png",
-      "page": "/assets/math/doom64/"
-    },
-    {
-      "name": "Goldeneye 007",
-      "img": "/assets/math/goldeneye/goldeneye007.png",
-      "page": "/assets/math/goldeneye/"
-    },
-    {
-      "name": "Majora's Mask",
-      "img": "/assets/math/majorasmask/majorasmask.png",
-      "page": "/assets/math/majorasmask/"
-    },
-    {
-      "name": "Mario Kart DS",
-      "img": "/assets/math/mariokartds/mariokartds.png",
-      "page": "/assets/math/mariokartds/"
-    },
-    {
-      "name": "Mario Party",
-      "img": "/assets/math/marioparty/marioparty.png",
-      "page": "/assets/math/marioparty/"
-    },
-    {
-      "name": "Mario Party 2",
-      "img": "/assets/math/marioparty2/marioparty2.png",
-      "page": "/assets/math/marioparty2/"
-    },
-    {
-      "name": "Mario Party 3",
-      "img": "/assets/math/marioparty3/marioparty3.png",
-      "page": "/assets/math/marioparty3/"
-    },
-    {
-      "name": "Mario Party DS",
-      "img": "/assets/math/mariopartyds/mariopartyds.png",
-      "page": "/assets/math/mariopartyds/"
-    },
-    {
-      "name": "Nintendogs",
-      "img": "/assets/math/nintendogs/nintendogs.png",
-      "page": "/assets/math/nintendogs/"
+      "name": "Papas Cupcakeria",
+      "img": "/assets/math/imgs/papascupcakeria.webp",
+      "page": "/assets/math/papascupcakeria/"
     },
     {
       "name": "Papas Bakeria",
-      "img": "/assets/math/papasbakeria/papasbakeria.png",
+      "img": "/assets/math/imgs/papasbakeria.webp",
       "page": "/assets/math/papasbakeria/"
     },
     {
       "name": "Papas Cheeseria",
-      "img": "/assets/math/papascheeseria/papascheeseria.png",
+      "img": "/assets/math/imgs/papascheeseria.webp",
       "page": "/assets/math/papascheeseria/"
     },
     {
+      "name": "Papas Donuteria",
+      "img": "/assets/math/imgs/papasdonuteria.webp",
+      "page": "/assets/math/papasdonuteria/"
+    },
+    {
+      "name": "Papas Freezeria",
+      "img": "/assets/math/imgs/papasfreezeria.webp",
+      "page": "/assets/math/papasfreezeria/"
+    },
+    {
       "name": "Papas Pastaria",
-      "img": "/assets/math/papaspastaria/papaspastaria.png",
+      "img": "/assets/math/imgs/papaspastaria.webp",
       "page": "/assets/math/papaspastaria/"
     },
     {
+      "name": "Papas Scooperia",
+      "img": "/assets/math/imgs/papasscooperia.webp",
+      "page": "/assets/math/papasscooperia/"
+    },
+    {
       "name": "Papas Sushiria",
-      "img": "/assets/math/papassushiria/papassushiria.png",
+      "img": "/assets/math/imgs/papassushieria.webp",
       "page": "/assets/math/papassushiria/"
     },
     {
       "name": "Papas Wingeria",
-      "img": "/assets/math/papaswingeria/papaswingeria.png",
+      "img": "/assets/math/imgs/papaswingeria.webp",
       "page": "/assets/math/papaswingeria/"
     },
     {
-      "name": "Paper Mario",
-      "img": "/assets/math/papermario/papermario.png",
-      "page": "/assets/math/papermario/"
+      "name": "Doge Miner",
+      "img": "/assets/math/imgs/dm.jpeg",
+      "page": "/assets/math/dogeminer/"
     },
     {
-      "name": "Star Fox 64",
-      "img": "/assets/math/starfox64/starfox64.png",
-      "page": "/assets/math/starfox64/"
+      "name": "Super Hot",
+      "img": "/assets/math/imgs/superhoticon.jpeg",
+      "page": "/assets/math/superhot/"
     },
     {
-      "name": "Super Mario 64 DS",
-      "img": "/assets/math/supermario64ds/supermario64ds.png",
-      "page": "/assets/math/supermario64ds/"
+      "name": "Toss The Turtle",
+      "img": "/assets/math/imgs/tosstheturtleicon.jpeg",
+      "page": "/assets/math/tosstheturtle/"
     },
     {
-      "name": "state.io",
-      "img": "/assets/math/stateio/icon.webp",
-      "page": "/assets/math/stateio/"
+      "name": "Push Your Luck",
+      "img": "/assets/math/imgs/pushyourluck.png",
+      "page": "/assets/math/push-your-luck/"
     },
     {
-      "name": "Draw Climber",
-      "img": "/assets/math/drawclimber/assets/gameLogo.png",
-      "page": "/assets/math/drawclimber/"
+      "name": "Gun Mayhem",
+      "img": "/assets/math/imgs/gunmayhen.jpeg",
+      "page": "/assets/math/gunmayhem/"
     },
     {
-      "name": "Polytrack",
-      "img": "/assets/math/polytrack/cover.jpg",
-      "page": "/assets/math/polytrack/"
+      "name": "Gun Mayhem 2",
+      "img": "/assets/math/imgs/gunmayhem2.jpeg",
+      "page": "/assets/math/gunmayhem2/"
+    },
+    {
+      "name": "Gun Mayhem Redux",
+      "img": "/assets/math/imgs/gunmayhemredux.jpeg",
+      "page": "/assets/math/gunmayhemredux/"
+    },
+    {
+      "name": "Cluster Rush",
+      "img": "/assets/math/imgs/clusterrush.jpeg",
+      "page": "/assets/math/cluster-rush/"
+    },
+    {
+      "name": "Friday Night Funkin",
+      "img": "/assets/math/imgs/fnf.jpeg",
+      "page": "/assets/math/fridaynightfunkin/"
+    },
+    {
+      "name": "Among Us",
+      "img": "/assets/math/imgs/amongus.jpeg",
+      "page": "/assets/math/amongus/"
+    },
+    {
+      "name": "Nazi Zombies Portable",
+      "img": "/assets/math/imgs/nzp.jpeg",
+      "page": "/assets/math/nzp/"
+    },
+    {
+      "name": "Bloons Player Pack 2",
+      "img": "/assets/math/imgs/bpp2.jpeg",
+      "page": "/assets/math/bpp2/"
+    },
+    {
+      "name": "Bloons Player Pack 3",
+      "img": "/assets/math/imgs/bpp3.jpeg",
+      "page": "/assets/math/bpp3/"
+    },
+    {
+      "name": "Bloons Player Pack 4",
+      "img": "/assets/math/imgs/bpp4.jpeg",
+      "page": "/assets/math/bpp4/"
+    },
+    {
+      "name": "Bloons Player Pack 5",
+      "img": "/assets/math/imgs/bpp5.jpeg",
+      "page": "/assets/math/bpp5/"
+    },
+    {
+      "name": "Gacha Life",
+      "img": "/assets/math/imgs/gachalife.jpeg",
+      "page": "/assets/math/gacha/life.html"
+    },
+    {
+      "name": "Gacha Verse",
+      "img": "/assets/math/imgs/gachaverse.jpeg",
+      "page": "/assets/math/gacha/verse.html"
+    },
+    {
+      "name": "1 On 1 Soccer",
+      "img": "/assets/math/imgs/1on1soccer.jpeg",
+      "page": "/assets/math/1on1soccer/"
+    },
+    {
+      "name": "A Small World Cup",
+      "img": "/assets/math/imgs/asmallworldcup.jpeg",
+      "page": "/assets/math/asmallworldcup/"
+    },
+    {
+      "name": "Tunnel Rush",
+      "img": "/assets/math/imgs/tunnelrush.jpeg",
+      "page": "/assets/math/tunnelrush/"
+    },
+    {
+      "name": "Drive Mad",
+      "img": "/assets/math/imgs/drivemad.jpeg",
+      "page": "/assets/math/drivemad/"
+    },
+    {
+      "name": "Moto X3M",
+      "img": "/assets/math/imgs/motox3m.jpeg",
+      "page": "/assets/math/motox3m/"
+    },
+    {
+      "name": "Moto X3M 2",
+      "img": "/assets/math/imgs/motox3m2.jpeg",
+      "page": "/assets/math/motox3m/2/"
+    },
+    {
+      "name": "Moto X3M Winter",
+      "img": "/assets/math/imgs/motox3mwinter.jpeg",
+      "page": "/assets/math/motox3m/4-winter/"
+    },
+    {
+      "name": "Moto X3M Pool Party",
+      "img": "/assets/math/imgs/motox3mpool.jpeg",
+      "page": "/assets/math/motox3m/5-pool-party/"
+    },
+    {
+      "name": "Moto X3M Spooky Land",
+      "img": "/assets/math/imgs/motox3mspooky.jpeg",
+      "page": "/assets/math/motox3m/6-spooky-land/"
+    },
+    {
+      "name": "Tomb Of The Mask",
+      "img": "/assets/math/imgs/totm.png",
+      "page": "/assets/math/totm/"
+    },
+    {
+      "name": "Glass City",
+      "img": "/assets/math/imgs/glasscity.png",
+      "page": "/assets/math/glasscity/"
+    },
+    {
+      "name": "Duck Life",
+      "img": "/assets/math/imgs/ducklife1.jpeg",
+      "page": "/assets/math/ducklife1/"
+    },
+    {
+      "name": "Duck Life 2",
+      "img": "/assets/math/imgs/ducklife2.jpeg",
+      "page": "/assets/math/ducklife2/"
+    },
+    {
+      "name": "Duck Life 3",
+      "img": "/assets/math/imgs/ducklife3.jpeg",
+      "page": "/assets/math/ducklife3/"
+    },
+    {
+      "name": "Duck Life 4",
+      "img": "/assets/math/imgs/ducklife4.jpeg",
+      "page": "/assets/math/ducklife4/"
+    },
+    {
+      "name": "Duck Life 5",
+      "img": "/assets/math/imgs/ducklife5.jpeg",
+      "page": "/assets/math/ducklife5/"
+    },
+    {
+      "name": "Duck Life 6",
+      "img": "/assets/math/imgs/ducklife6.jpeg",
+      "page": "/assets/math/ducklife6/"
+    },
+    {
+      "name": "People Playground",
+      "img": "/assets/math/imgs/peopleplayground.jpg",
+      "page": "/assets/math/ppg/"
+    },
+    {
+      "name": "Cuphead",
+      "img": "/assets/math/imgs/cuphead.webp",
+      "page": "/assets/math/cuphead/"
+    },
+    {
+      "name": "Drift Boss",
+      "img": "/assets/math/imgs/driftboss.jpg",
+      "page": "/assets/math/drift-boss/"
+    },
+    {
+      "name": "Hollow Knight",
+      "img": "/assets/math/imgs/hollowknight.webp",
+      "page": "/assets/math/hollowknight/"
+    },
+    {
+      "name": "Racer",
+      "img": "/assets/math/imgs/racer.png",
+      "page": "/assets/math/racer/"
+    },
+    {
+      "name": "A Dance of Fire and Ice",
+      "img": "/assets/math/imgs/adofai.jpg",
+      "page": "/assets/math/adofai/"
+    },
+    {
+      "name": "Gravity Run",
+      "img": "/assets/math/imgs/gravityrun.jpg",
+      "page": "/assets/math/gravityrun/"
+    },
+    {
+      "name": "Bendy and the Ink Machine",
+      "img": "/assets/math/imgs/bendy.jpg",
+      "page": "/assets/math/bendy/"
+    },
+    {
+      "name": "Buckshot Roulette",
+      "img": "/assets/math/imgs/buckshotroulette.jpg",
+      "page": "/assets/math/buckshot/"
+    },
+    {
+      "name": "Hotline Miami",
+      "img": "/assets/math/imgs/hotlinemiami.jpg",
+      "page": "/assets/math/hotlinemiami/"
+    },
+    {
+      "name": "Class Of 09",
+      "img": "/assets/math/imgs/classof09.jpg",
+      "page": "/assets/math/classof09/"
     }
   ]
 }

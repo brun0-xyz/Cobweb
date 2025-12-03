@@ -1,16 +1,41 @@
 <html>
-  <head>
+    <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FN7LEVWXD"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
 
-<script src="/js/all.min.js"></script>
+          gtag('config', 'G-7FN7LEVWXD');
+        </script>
 
-
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Red Ball 4</title>
-    <style>html{background-color:#000;}</style>
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Riddle School | Seraph</title>
+    <link rel="shortcut icon" href="../../../images/ico.ico" type="image/x-icon">
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        background-color: black;
+      }
+    </style>
+            <script src="../../../storage/js/cloak.js"></script>
   </head>
   <body>
+    <script src="/js/main.js"></script>
     <div id="ruffle" width="100%" height="100%"></div>
-    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    <script>
+      function loadLocalRuffle() {
+          var script = document.createElement('script');
+          script.src = '../../../storage/ruffle/ruffle.js';
+          document.body.appendChild(script);
+      }
+
+      var cdnScript = document.createElement('script');
+      cdnScript.src = 'https://unpkg.com/@ruffle-rs/ruffle';
+      cdnScript.onerror = loadLocalRuffle;
+      document.body.appendChild(cdnScript);
+    </script>
     <script>
       window.RufflePlayer = window.RufflePlayer || {};
       window.addEventListener("load", (event) => {

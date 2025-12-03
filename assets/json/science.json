@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "name": "Ruffle",
+      "img": "/assets/science/imgs/rufflelogo.png",
+      "page": "/assets/science/ruffle/"
+    },
+    {
+      "name": "EmulatorJS",
+      "img": "/assets/science/imgs/emulatorjs.png",
+      "page": "/assets/science/emulatorjs/"
+    }
+  ]
+}
