@@ -6,55 +6,19 @@
   <link rel="stylesheet" href="/assets/css/frame.css">
   <link rel="icon" type="image/x-icon" href="/assets/images/iconcobweb.ico">
 </head>
-
 <body>
-
   <iframe id="frame"></iframe>
-
   <div id="infoBar">
-    <!-- LEFT SIDE -->
     <div id="leftInfo">
       <img id="miniImg">
       <span id="itemName"></span>
     </div>
-
-    <!-- RIGHT SIDE -->
     <div id="rightButtons">
       <button class="btn" id="returnBtn"><i class="fa-solid fa-left-long"></i></button>
       <button class="btn" id="fullscreenBtn"><i class="fa-solid fa-expand"></i></button>
       <button class="btn" id="reloadBtn"><i class="fa-solid fa-arrow-rotate-right"></i></button>
     </div>
   </div>
-
-  <script>
-    const item = JSON.parse(localStorage.getItem("selectedItem"));
-    const iframe = document.getElementById("frame");
-
-    if (item) {
-      document.getElementById("miniImg").src = item.img;
-      document.getElementById("itemName").innerText = item.name;
-      iframe.src = item.page;
-    } else {
-      document.body.innerHTML = "<h1 style='color:white;text-align:center;margin-top:50px;'>No item selected.</h1>";
-    }
-
-    // Reload button
-    document.getElementById("reloadBtn").addEventListener("click", () => {
-      iframe.src = iframe.src;
-    });
-
-    // Fullscreen button
-    document.getElementById("fullscreenBtn").addEventListener("click", () => {
-      if (iframe.requestFullscreen) iframe.requestFullscreen();
-      else if (iframe.webkitRequestFullscreen) iframe.webkitRequestFullscreen();
-      else if (iframe.msRequestFullscreen) iframe.msRequestFullscreen();
-    });
-
-    // Return button
-    document.getElementById("returnBtn").addEventListener("click", () => {
-      window.history.back(); // goes back to the previous page
-    });
-  </script>
-
+  <script src="/assets/js/iframe.js"></script>
 </body>
 </html>
