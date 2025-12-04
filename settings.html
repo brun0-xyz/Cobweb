@@ -1,0 +1,80 @@
+<html>
+    <head>
+        <title>Cobweb | Settings</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+        <link rel="stylesheet" href="/assets/css/main.css">
+        <link rel="icon" type="image/x-icon" href="/assets/images/iconcobweb.ico">
+    </head>
+    <body>
+        <!-- MightBeExplo4er here! Yes I still skid the settings from Seraph. Astralogical did give me permission so long ago. So not really skidding ig. -->
+        <div class="floating-nav">
+            <div class="nav-left">
+                <a href="/">
+                    <img src="/assets/images/logo.png" class="nav-logo">
+                </a>
+
+                <a href="/math.html" class="nav-icon">
+                    <i class="fa-solid fa-gamepad"></i>
+                </a>
+
+                <a href="/science.html" class="nav-icon">
+                    <i class="fa-solid fa-tablet"></i>
+                </a>
+            </div>
+
+            <div class="nav-right">
+                <a href="settings.html" class="settings-btn">
+                    <i class="fa-solid fa-gear"></i>
+                </a>
+            </div>
+        </div>
+
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
+        <div class="box-container">
+  <div class="box">
+    <h2>Tab Cloaking</h2>
+            <br>
+            <select class="btn" id="presetSelect">
+                <option value="google">google</option>
+                <option value="googleclassroom">google classroom</option>
+                <option value="googledrive">google drive</option>
+                <option value="chrometab">chrome new tab</option>
+                <option value="gmail">gmail</option>
+                <option value="bing">bing</option>
+                <option value="desmos">desmos calculator</option>
+                <option value="wikipedia">wikipedia</option>
+            </select>
+        
+            <button class="btn" id="saveButton">select cloak</button>
+            <button class="btn" id="resetButton">reset cloak</button>
+            <p id="success" style="display: none;">success message here</p>
+  </div>
+  <div class="box">
+    <h2>Panic Keys</h2>
+            <input class="btn" type="text" id="panicKey" placeholder="choose a key combination" readonly>
+            <input class="btn" type="url" id="panicUrl" placeholder="https://www.desmos.com/scientific">
+            <button class="btn" onclick="saveSettings()">set panic key</button>
+            <p id="success-panic" style="display: none;">success message here</p>
+  </div>
+  <div class="box">
+    <h2>About:Blank Cloak</h2>
+    <button class="btn" id="openAboutBlank">Cloak</button>
+
+  <script src="/assets/js/settings/ab.js">
+    
+  </script>
+
+  </div>
+</div>
+
+
+        <script src="/assets/js/settings/cloak.js"></script>
+        <script src="/assets/js/settings/data.js"></script>
+        <script src="/assets/js/settings/settings.js"></script>
+    </body>
+</html>

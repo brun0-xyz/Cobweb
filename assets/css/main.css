@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
 body {
 	margin: 0;
 	padding: 0;
-	font-family: Arial, sans-serif;
+	font-family: "Cabin", sans-serif;
 	background: #121212;
 	color: white;
 }
@@ -98,19 +100,46 @@ h1 {
 	margin: 0;
 }
 
-.pop-btn {
+.box-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  padding: 30px;
+}
+
+.box {
+    background: #121212;
+    border: 2px solid rgba(102, 102, 102, 0.1);
+    border-radius: 10px;
+    width: 200px;
+    min-height: 150px;
+    padding: 15px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+  }
+
+  .box:hover {
+    transform: scale(1.05);
+  }
+
+.btn {
 	background: white;
 	color: black;
 	padding: 12px 24px;
 	font-size: 18px;
 	border: none;
 	border-radius: 10px;
+	font-family: "Cabin", sans-serif;
 	cursor: pointer;
 	margin: 5px;
 	transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.pop-btn:hover {
+.btn:hover {
 	transform: translateY(-5px);
 	box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
 }
@@ -144,7 +173,7 @@ h1 {
     position: relative;
     cursor: pointer;
     transition: transform 0.2s ease;
-    overflow: hidden; /* <-- ensures label stays inside */
+    overflow: hidden;
 }
 
 .item img {
